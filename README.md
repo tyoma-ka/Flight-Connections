@@ -21,3 +21,6 @@
        ---------------------------------------------------------------------------------------------------------------------------
        BGY -> WAW -> ZRH                                   Swiss, Wizz Air              W61434 -> LX1349                      318
        ZRH -> HKG -> SYD                             Cathay Pacific, Swiss                LX138 -> CX111                     1444
+
+
+Check testyUloha_[1-3].cpp for more!
