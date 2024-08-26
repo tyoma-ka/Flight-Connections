@@ -1,0 +1,20 @@
+# ninja log v6
+21	348	1724679826538498110	CMakeFiles/cvicenie12.dir/1_Aircraft.cpp.o	cf86a8faa8e3945c
+21	352	1724679826538618692	CMakeFiles/cvicenie12.dir/1_Flight.cpp.o	94536a5277fa69dc
+21	401	1724679826538209737	CMakeFiles/cvicenie12.dir/1_Time.cpp.o	498a3b488acb097a
+21	489	1724679826538721442	CMakeFiles/cvicenie12.dir/2_Connection.cpp.o	177ff47f164b2b24
+21	519	1724679826538859233	CMakeFiles/cvicenie12.dir/2_Flights.cpp.o	d7ec7fb8f36d4781
+21	580	1724679826539006398	CMakeFiles/cvicenie12.dir/3_Sort.cpp.o	495def60d904f843
+352	892	1724679826869495772	CMakeFiles/cvicenie12.dir/testyUloha_1.cpp.o	99c55c54f486f94e
+580	893	1724679827098069165	CMakeFiles/cvicenie12.dir/GoogleTest/gtest-filepath.cc.o	b151a1249fa2484f
+349	912	1724679826866848081	CMakeFiles/cvicenie12.dir/3_Connections.cpp.o	dadee1ad6eac8a3d
+401	995	1724679826919059335	CMakeFiles/cvicenie12.dir/testyUloha_2.cpp.o	bcaf990cb1c30a4e
+522	1072	1724679827039659117	CMakeFiles/cvicenie12.dir/GoogleTest/gtest-death-test.cc.o	103bb336038cb6b0
+489	1119	1724679827006524451	CMakeFiles/cvicenie12.dir/testyUloha_3.cpp.o	c726bc506c6c0dae
+893	1279	1724679827410240738	CMakeFiles/cvicenie12.dir/GoogleTest/gtest-printers.cc.o	8d797eeb3924e4f8
+912	1381	1724679827429756323	CMakeFiles/cvicenie12.dir/GoogleTest/gtest-test-part.cc.o	b9ee196c6a3a4f36
+892	1387	1724679827409465826	CMakeFiles/cvicenie12.dir/GoogleTest/gtest-port.cc.o	44fd78c3787486f6
+995	1460	1724679827512420010	CMakeFiles/cvicenie12.dir/GoogleTest/gtest-typed-test.cc.o	66a0b39e1c738e26
+1120	1524	1724679827637756719	CMakeFiles/cvicenie12.dir/GoogleTest/gtest_main.cc.o	fb74cf2e17470f3d
+1072	1855	1724679827589666940	CMakeFiles/cvicenie12.dir/GoogleTest/gtest.cc.o	5e9a3c07d505c894
+1855	1884	1724679828373036875	cvicenie12	91d84db484ce2111

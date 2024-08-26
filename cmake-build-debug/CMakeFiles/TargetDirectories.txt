@@ -1,0 +1,3 @@
+/Users/person/Documents/учеба/Programovanie/3 семестр/Проект/Проект/cmake-build-debug/CMakeFiles/cvicenie12.dir
+/Users/person/Documents/учеба/Programovanie/3 семестр/Проект/Проект/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/person/Documents/учеба/Programovanie/3 семестр/Проект/Проект/cmake-build-debug/CMakeFiles/rebuild_cache.dir
